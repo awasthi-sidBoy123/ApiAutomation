@@ -39,6 +39,11 @@ public class InvokeTest {
 		System.out.println("Added a line from window user");
 		System.out.println("Added a line from window user");
 		
+		System.out.println("develop");
+		System.out.println("develop");
+		System.out.println("develop");
+		System.out.println("develop");
+		
 		extent.flush();
 	}
 	
