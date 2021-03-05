@@ -35,6 +35,9 @@ public class InvokeTest {
 		 driver.get("http://www.google.com");
 		System.out.println(driver.getTitle());
 		System.out.println("I have added a line in it");
+		System.out.println("Added a line from window user");
+		System.out.println("Added a line from window user");
+		System.out.println("Added a line from window user");
 		
 		extent.flush();
 	}
