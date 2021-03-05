@@ -34,6 +34,7 @@ public class InvokeTest {
 		ChromeDriver driver = new ChromeDriver();
 		 driver.get("http://www.google.com");
 		System.out.println(driver.getTitle());
+		System.out.println("I have added a line in it");
 		
 		extent.flush();
 	}
